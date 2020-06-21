@@ -22,3 +22,9 @@ git push origin master
 git checkout -b <tên>
 --Đổi tên. master đổi thành tên mình đặt
 
+git push -u origin <tên branch>
+--Sau khi đổi tên thì lúc push mình phải push tên branch đi kèm
+
+git pull
+--Lấy dữ liệu về
+
