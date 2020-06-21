@@ -1,0 +1,12 @@
+git clone <link download>
+-- Lấy project về
+cd <tên File>
+-- Truy cập tới file đó
+git status
+-- Xem những thay đổi trong file
+git add .
+-- Sau khi git add thì những file thay đổi sẽ đc chấp nhận để put lên git
+git commit -m "Câu tin nhắn"
+git config --global user.name "Thanh Vu"
+git config  --global user.email "vu261194@gmail.com"
+--Cấu hình tài khoản
