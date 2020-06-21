@@ -18,3 +18,7 @@ git config  --global user.email "vu261194@gmail.com"
 
 git push origin master
 --Push file lên github
+
+git checkout -b <tên>
+--Đổi tên. master đổi thành tên mình đặt
+
